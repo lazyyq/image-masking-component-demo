@@ -74,6 +74,7 @@
   border-radius: 8px;
   overflow: hidden;
   box-sizing: border-box;
+  touch-action: none; /* 터치 스크롤 및 줌 방지 */
 }
 
 .image-masking-image {
